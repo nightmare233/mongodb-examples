@@ -1,0 +1,7 @@
+d:\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.exe.config
+d:\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.exe
+d:\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.pdb
+d:\documents\visual studio 2017\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.exe
+d:\documents\visual studio 2017\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.pdb
+d:\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.dll
+d:\documents\visual studio 2017\Projects\MongoDB\MongoDB\obj\Debug\MongoDBTest.csprojResolveAssemblyReference.cache
